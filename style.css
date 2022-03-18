@@ -1,8 +1,8 @@
 :root{
     --corescura: #34073d;
     --corclara: #e65763;
-    --corverde: rgb(48, 122, 48);
-    --corvermelha: rgb(196, 24, 24);
+    --corverde: #307a30;
+    --corvermelha: #c41818;
 }
 
 body{
